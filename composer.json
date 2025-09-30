@@ -1,0 +1,15 @@
+{
+    "name": "bouro/gestion-notes",
+    "autoload": {
+        "psr-4": {
+            "Bouro\\GestionNotes\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "akila-atmani",
+            "email": "akila.atmani@laplateforme.io"
+        }
+    ],
+    "require": {}
+}
